@@ -6,7 +6,7 @@ import org.springframework.context.annotation.PropertySource;
 
 import com.wjl.pojo.Person;
 
-
+jiayou
 @Configuration
 //加载外部配置文件
 @PropertySource(value="classpath:/Spring.properties")	
