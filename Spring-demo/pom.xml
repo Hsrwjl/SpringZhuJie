@@ -5,7 +5,18 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <dependencies>
-  		
+  	<!-- https://mvnrepository.com/artifact/com.alibaba/druid -->
+<dependency>
+    <groupId>com.alibaba</groupId>
+    <artifactId>druid</artifactId>
+    <version>1.2.8</version>
+</dependency>
+  		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.27</version>
+</dependency>
 <dependency>
 <groupId>org.springframework</groupId>
 <artifactId>spring-core</artifactId>
